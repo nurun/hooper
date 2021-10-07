@@ -1,5 +1,5 @@
 {
-  "name": "hooper-nurun",
+  "name": "@nurun/hooper",
   "version": "0.4.0",
   "description": "A customizable accessible carousel slider optimized for Vue",
   "module": "dist/hooper.esm.js",

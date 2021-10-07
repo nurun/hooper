@@ -1,6 +1,6 @@
 {
-  "name": "@nurun/hooper",
-  "version": "0.4.0",
+  "name": "hooper-nurun",
+  "version": "0.3.5",
   "description": "A customizable accessible carousel slider optimized for Vue",
   "module": "dist/hooper.esm.js",
   "unpkg": "dist/hooper.js",
@@ -22,7 +22,6 @@
     "babel-core": "^7.0.0-bridge.0",
     "babel-eslint": "^10.0.2",
     "babel-jest": "^24.8.0",
-    "browser-sync": "^2.26.7",
     "chalk": "^2.4.2",
     "eslint": "^6.1.0",
     "eslint-config-prettier": "^6.0.0",
